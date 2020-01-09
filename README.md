@@ -11,7 +11,9 @@
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/ContactMe)](https://github.com/AbdallahHemdan/ContactMe/blob/master/LICENSE)
 
 </div>
-# 🔗 Contact Me
+
+## 🔗 Contact Me
+
 **_Simple Google Chrome extension for quick access for Abdallah Hemdan contacts_** <br>
 • Website <br>
 • Facebook <br>
