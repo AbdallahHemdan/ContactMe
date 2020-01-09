@@ -38,7 +38,7 @@
 </div>
 
 <hr>
-------
+
 
 ## 🖼 Screenshots
 
