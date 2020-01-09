@@ -14,13 +14,8 @@
 
 ## 🔗 Contact Me
 
-**_Simple Google Chrome extension for quick access for Abdallah Hemdan contacts_** <br>
-• Website <br>
-• Facebook <br>
-• LinkedIn <br>
-• CodeForces <br>
-• GitHub <br>
-• Mail <br>
+**_Simple Google Chrome extension for quick access for Abdallah Hemdan contacts Like [Website](https://abdallahhemdan.github.io/), [Facebook](https://www.facebook.com/profile.php?id=100009270028400), [Linked-In](https://www.linkedin.com/in/abdallah-a-hemdan-4a94a614a/), [Codeforces](https://codeforces.com/profile/AbdallahHemdan), [GitHub](https://github.com/AbdallahHemdan) and [my Mail](abdallah.ahmed.hemdan@gmail.com)._** <br>
+
 
 ## Screenshots
 
